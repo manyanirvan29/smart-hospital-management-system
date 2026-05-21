@@ -1,0 +1,9 @@
+P101|2025-9-21|Dr.Gupta|Crosin
+P101|2025-9-21|Dr.Chopra|Dollo
+P101|2025-9-21|Dr.Patil|Dolo
+P103|2025-9-21|Dr.chopra|Dolo
+P104|2025-9-21|Dr.nirvan|Dollo
+P105|2025-9-21|200|30
+P102|2025-9-21|Dr.Panjwani|Crosin
+
+P102|2025-9-23|Dr.Nirvan|Crocine

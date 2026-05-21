@@ -1,0 +1,5 @@
+Apollo|Max
+Apollo|Max
+ManyaHospital|Hospital1
+Rita|Dhanvantri
+Zenhospital|ManekHostiptal
